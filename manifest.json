@@ -1,0 +1,16 @@
+{
+    "display_name": "Plugin Store Search",
+    "plugin_id": "plugin_store_search",
+    "uninstallable": false,
+    "version": "1.2.2",
+    "author": "Orion & Nymph",
+    "description": "搜索插件商店、下载安装插件、卸载删除插件。支持可配置的匹配字段与排序、网络超时/列表缓存、卸载安全开关，以及 /store 斜杠命令（search/install/delete/rescan/help）",
+    "repo": "https://github.com/NymphSX/KiraAI-plugin-store-search",
+    "tags": ["plugin", "store", "search", "install", "manage", "slash-command"],
+    "locales": {
+        "zh": {
+            "display_name": "插件商店管理",
+            "description": "搜索插件商店、下载安装插件、卸载删除插件。支持可配置的匹配字段与排序、网络超时/列表缓存、卸载安全开关，以及 /store 斜杠命令（search/install/delete/rescan/help）"
+        }
+    }
+}
